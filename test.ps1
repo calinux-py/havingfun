@@ -1,2 +1,2 @@
 echo "you did it yay"
-start-sleep 10
+read-host "press enter to do nothing"
