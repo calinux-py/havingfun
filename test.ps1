@@ -1,2 +1,2 @@
 echo "you did it yay"
-sleep 10
+start-sleep 10
